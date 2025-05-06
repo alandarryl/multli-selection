@@ -9,7 +9,7 @@
 </head>
 <body>
 
-<form action="" class="input" id="input-form" >
+<form action="manage.php" class="input" id="input-form" >
     <input type="text" name="name" id="name" placeholder="Enter your name">
     <div id="dynamic-inputs"></div>
     <input id="btn" type="submit" value="Submit">
